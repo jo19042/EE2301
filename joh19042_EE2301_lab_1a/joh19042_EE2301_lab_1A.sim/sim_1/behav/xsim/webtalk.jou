@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sun Oct  3 16:27:47 2021
+# Process ID: 13668
+# Current directory: C:/Users/nacob/Vivado_EE2301_Projects/joh19042_ee2301_lab1a/joh19042_EE2301_lab_1A/joh19042_EE2301_lab_1A.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/nacob/Vivado_EE2301_Projects/joh19042_ee2301_lab1a/joh19042_EE2301_lab_1A/joh19042_EE2301_lab_1A.sim/sim_1/behav/xsim/xsim.dir/One_Bit_Full_Adder_wrapper_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/nacob/Vivado_EE2301_Projects/joh19042_ee2301_lab1a/joh19042_EE2301_lab_1A/joh19042_EE2301_lab_1A.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/nacob/Vivado_EE2301_Projects/joh19042_ee2301_lab1a/joh19042_EE2301_lab_1A/joh19042_EE2301_lab_1A.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/nacob/Vivado_EE2301_Projects/joh19042_ee2301_lab1a/joh19042_EE2301_lab_1A/joh19042_EE2301_lab_1A.sim/sim_1/behav/xsim/xsim.dir/One_Bit_Full_Adder_wrapper_behav/webtalk/xsim_webtalk.tcl -notrace
