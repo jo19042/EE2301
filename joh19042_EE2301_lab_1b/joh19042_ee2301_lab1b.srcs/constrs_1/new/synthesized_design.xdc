@@ -1,0 +1,15 @@
+set_property BITSTREAM.GENERAL.COMPRESS TRUE [current_design]
+set_property BITSTREAM.CONFIG.CONFIGRATE 33 [current_design]
+set_property CONFIG_MODE SPIx4 [current_design]
+
+set_property IOSTANDARD LVCMOS33 [get_ports OUT1]
+set_property IOSTANDARD LVCMOS33 [get_ports OUT2]
+set_property IOSTANDARD LVCMOS33 [get_ports X]
+set_property IOSTANDARD LVCMOS33 [get_ports Y]
+set_property IOSTANDARD LVCMOS33 [get_ports Z]
+
+set_property PACKAGE_PIN N2 [get_ports X]
+set_property PACKAGE_PIN N1 [get_ports Y]
+set_property PACKAGE_PIN M1 [get_ports Z]
+set_property PACKAGE_PIN U16 [get_ports OUT1]
+set_property PACKAGE_PIN E19 [get_ports OUT2]
